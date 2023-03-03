@@ -9,8 +9,8 @@
 
 ## GET /WeatherForecast
 Получение всех данных, присутствует необязательный параметр sortStrategy, который позволяет получить данные в отсортированном виде
-1 - по возрастанию 
--1 - по убыванию
+1 - по возрастанию <br>
+-1 - по убыванию <br>
 ![image](https://user-images.githubusercontent.com/66909286/222666172-cbee9204-f882-438f-b1ef-ec7311f0e2d0.png)
 ![image](https://user-images.githubusercontent.com/66909286/222666269-14ae4b78-3eb1-411b-bc9d-efcdadd24063.png)
 
